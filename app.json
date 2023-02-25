@@ -1,17 +1,19 @@
 {
     "name": "Forward Tag Remover",
     "description": "A Simple Telegram forward tag remover ",
-    "logo": "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg",
+    "logo": "https://telegra.ph/file/6aafe646720b2dbbc2ad7.jpg",
     "keywords": [
     "python3",
     "telegram",
     "telegram-bot",
     "pyrogram"
     ],
-    "env":"BOT_TOKEN": {
+    "env": {
+    "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
         "value": "",
         "required": true
+    }
       },
     "buildpacks": [
           {
