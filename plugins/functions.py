@@ -4,7 +4,7 @@ from config import Config
 
 keyboard = [
     [
-        InlineKeyboardButton("Source Code", url=Config.SOURCE)
+        InlineKeyboardButton("Support Chat", url=Config.SUPPORT)
     ]
 ]
 
